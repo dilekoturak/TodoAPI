@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddPersistenceServices();
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy =>
-    policy.WithOrigins("http://localhost:4200", "https://localhost:4200").AllowAnyMethod().AllowAnyHeader()));
+    policy.WithOrigins("http://localhost:4200", "https://localhost:4200", "https://localhost:5001").AllowAnyMethod().AllowAnyHeader()));
 
 var app = builder.Build();
 
