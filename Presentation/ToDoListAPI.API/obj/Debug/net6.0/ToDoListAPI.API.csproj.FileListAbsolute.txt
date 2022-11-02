@@ -1,0 +1,129 @@
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.deps.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.runtimeconfig.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/scopedcss/bundle/ToDoListAPI.API.styles.css
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CopyComplete
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/refint/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.genruntimeconfig.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ref/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.deps.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.runtimeconfig.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.pdb
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.pdb
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.pdb
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/scopedcss/bundle/ToDoListAPI.API.styles.css
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CopyComplete
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/refint/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.genruntimeconfig.cache
+/Users/dilekoturak/Desktop/CaseStudy/ToDoListAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ref/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/appsettings.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.deps.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.runtimeconfig.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Humanizer.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Application.pdb
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Persistence.pdb
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/bin/Debug/net6.0/ToDoListAPI.Domain.pdb
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/scopedcss/bundle/ToDoListAPI.API.styles.css
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.csproj.CopyComplete
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/refint/ToDoListAPI.API.dll
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.pdb
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ToDoListAPI.API.genruntimeconfig.cache
+/Users/dilekoturak/Desktop/TodoAPI/Presentation/ToDoListAPI.API/obj/Debug/net6.0/ref/ToDoListAPI.API.dll

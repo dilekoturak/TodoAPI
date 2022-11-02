@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dilekoturak/Desktop/TodoAPI/Infrastructure/ToDoListAPI.Persistence/ToDoListAPI.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/ToDoListAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/ToDoListAPI.Application.csproj",
+        "projectName": "ToDoListAPI.Application",
+        "projectPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/ToDoListAPI.Application.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/ToDoListAPI.Domain.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/ToDoListAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/ToDoListAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/ToDoListAPI.Domain.csproj",
+        "projectName": "ToDoListAPI.Domain",
+        "projectPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/ToDoListAPI.Domain.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dilekoturak/Desktop/TodoAPI/Infrastructure/ToDoListAPI.Persistence/ToDoListAPI.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dilekoturak/Desktop/TodoAPI/Infrastructure/ToDoListAPI.Persistence/ToDoListAPI.Persistence.csproj",
+        "projectName": "ToDoListAPI.Persistence",
+        "projectPath": "/Users/dilekoturak/Desktop/TodoAPI/Infrastructure/ToDoListAPI.Persistence/ToDoListAPI.Persistence.csproj",
+        "packagesPath": "/Users/dilekoturak/.nuget/packages/",
+        "outputPath": "/Users/dilekoturak/Desktop/TodoAPI/Infrastructure/ToDoListAPI.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dilekoturak/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/ToDoListAPI.Application.csproj": {
+                "projectPath": "/Users/dilekoturak/Desktop/TodoAPI/Core/ToDoListAPI.Application/ToDoListAPI.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

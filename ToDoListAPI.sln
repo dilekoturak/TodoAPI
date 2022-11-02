@@ -1,0 +1,69 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{31957355-D4BD-4345-801D-2870D3CDF4BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListAPI.Domain", "Core\ToDoListAPI.Domain\ToDoListAPI.Domain.csproj", "{634192B2-652A-4866-BB47-E8ED61BE5F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListAPI.Application", "Core\ToDoListAPI.Application\ToDoListAPI.Application.csproj", "{02602BF7-56F3-418E-B478-7A12934E33BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A6B926FB-AD0E-404A-95C3-7C9CE7A55BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListAPI.Persistence", "Infrastructure\ToDoListAPI.Persistence\ToDoListAPI.Persistence.csproj", "{568D35ED-A2B9-4194-97F2-97DB94512E3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D0C274DA-0B17-4272-B0A2-7796DE5CB478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListAPI.API", "Presentation\ToDoListAPI.API\ToDoListAPI.API.csproj", "{82906673-305F-4664-B506-855357B525BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634192B2-652A-4866-BB47-E8ED61BE5F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634192B2-652A-4866-BB47-E8ED61BE5F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634192B2-652A-4866-BB47-E8ED61BE5F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{634192B2-652A-4866-BB47-E8ED61BE5F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02602BF7-56F3-418E-B478-7A12934E33BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02602BF7-56F3-418E-B478-7A12934E33BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02602BF7-56F3-418E-B478-7A12934E33BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02602BF7-56F3-418E-B478-7A12934E33BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568D35ED-A2B9-4194-97F2-97DB94512E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568D35ED-A2B9-4194-97F2-97DB94512E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568D35ED-A2B9-4194-97F2-97DB94512E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568D35ED-A2B9-4194-97F2-97DB94512E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82906673-305F-4664-B506-855357B525BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82906673-305F-4664-B506-855357B525BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82906673-305F-4664-B506-855357B525BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82906673-305F-4664-B506-855357B525BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48081B37-D605-41A0-A1FA-8BD15B34EEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48081B37-D605-41A0-A1FA-8BD15B34EEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48081B37-D605-41A0-A1FA-8BD15B34EEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48081B37-D605-41A0-A1FA-8BD15B34EEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91BDD3A-BB2C-4548-AD3D-025DA4BC1908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91BDD3A-BB2C-4548-AD3D-025DA4BC1908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91BDD3A-BB2C-4548-AD3D-025DA4BC1908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91BDD3A-BB2C-4548-AD3D-025DA4BC1908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311D536D-3921-4A05-817A-648BD33913E4}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{634192B2-652A-4866-BB47-E8ED61BE5F81} = {31957355-D4BD-4345-801D-2870D3CDF4BA}
+		{02602BF7-56F3-418E-B478-7A12934E33BA} = {31957355-D4BD-4345-801D-2870D3CDF4BA}
+		{568D35ED-A2B9-4194-97F2-97DB94512E3A} = {A6B926FB-AD0E-404A-95C3-7C9CE7A55BE8}
+		{82906673-305F-4664-B506-855357B525BF} = {D0C274DA-0B17-4272-B0A2-7796DE5CB478}
+		{48081B37-D605-41A0-A1FA-8BD15B34EEC2} = {1EE8FC32-A64B-4AD7-BF77-DEF42F91409D}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal

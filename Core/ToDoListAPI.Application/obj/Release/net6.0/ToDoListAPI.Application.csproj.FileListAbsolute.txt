@@ -1,0 +1,15 @@
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/bin/Release/net6.0/ToDoListAPI.Application.deps.json
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/bin/Release/net6.0/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/bin/Release/net6.0/ToDoListAPI.Application.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/bin/Release/net6.0/ToDoListAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/bin/Release/net6.0/ToDoListAPI.Domain.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.csproj.CopyComplete
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/refint/ToDoListAPI.Application.dll
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ToDoListAPI.Application.pdb
+/Users/dilekoturak/Desktop/MyProjects/TransferMate Global Payments/ToDoListAPI/Core/ToDoListAPI.Application/obj/Release/net6.0/ref/ToDoListAPI.Application.dll
